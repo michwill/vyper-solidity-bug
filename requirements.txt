@@ -1,0 +1,9 @@
+vyper
+web3[tester]==5.0.0a5
+py-evm==0.2.0a39
+eth-tester==0.1.0b37
+eth-typing==2.0.0
+eth-utils==1.4.1
+py-ecc==1.4.7
+pytest
+ipython
